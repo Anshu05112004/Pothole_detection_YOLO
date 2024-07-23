@@ -1,5 +1,6 @@
 # Pothole Detection using YOLOv8 and OpenCV
-[image]()
+<img src="https://github.com/Anshu05112004/Pothole_detection_YOLO/blob/main/giphy.gif">
+
 ## Overview
 This project aims to detect and segment potholes using machine learning techniques. The implementation leverages YOLOv8 for object detection and the OpenCV and CVZone libraries for image processing. The dataset used was sourced from [roboflow.com](https://roboflow.com) and includes a total of 780 images annotated in the YOLOv8 format.
 
