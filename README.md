@@ -37,6 +37,7 @@ This project is licensed under the MIT License.
 ## Authors
  * [Anshu05112004](https://github.com/TLxGHOST/) 
  * [Grishm](https://github.com/2228115grishm/)
+ * [Prashant Raj](https://github.com/prashantraj1X1)
 
 
 
